@@ -1,0 +1,10 @@
+.addMeizhi{    margin-left: 30%;
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+    text-align: center;
+    width: 40%;
+    height: 40px;
+    line-height: 40px;
+    background-color: white;  }
+.itemAll li{list-style: none;float: left;margin-left: 30px;}
+.itemAll .imgItem img{width:500px }
