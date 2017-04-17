@@ -2,7 +2,7 @@
 刚刚开始学习react一个练手项目<br/>
 
 ![meizhi](image/11.png)
-
+![meizhi](image/12.png)
 本项目运用了：<br/>
 1.es6<br/>
 2.react-router@4.0<br/>
