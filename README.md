@@ -1,4 +1,4 @@
-# Gmeizhi1
+# Gmeizhi
 刚刚开始学习react一个练手项目<br/>
 
 ![meizhi](image/11.png)
